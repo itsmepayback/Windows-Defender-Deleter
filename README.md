@@ -9,3 +9,4 @@ To Do:
 
 Fix Compatibility with Windows XP and probably Vista.
 Add An Optional Automatic Uninstalling Process.
+Probably More Fixes That Are Not In My Head Right Now.
