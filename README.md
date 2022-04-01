@@ -4,9 +4,10 @@ Fixes:
 
 
 Added A Shutdown Warning Before Restarting The computer.
+Fixed Compatibility (Can Now Execute On Windows XP And Higher).
+Added A Message Box At The End Saying Wheter The Removal Operation Completed Or Not.
 
 To Do:
-
-Fix Compatibility with Windows XP and probably Vista.
+Re-Enable User Account Control After the Removal Process.
 Add An Optional Automatic Uninstalling Process.
 Probably More Fixes That Are Not In My Head Right Now.
