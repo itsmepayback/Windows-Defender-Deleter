@@ -6,8 +6,14 @@ Fixes:
 
 
 Added A Shutdown Warning Before Restarting The computer.
+
+
 Fixed Compatibility (Can Now Execute On Windows XP And Higher).
+
+
 Added A Message Box At The End Saying Wheter The Removal Operation Completed Or Not.
+
+
 Terminates Windows Defender User Interface Process To Prevent Random Windows Security User Account Control Prompting.
 
 
