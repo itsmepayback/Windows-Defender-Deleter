@@ -17,6 +17,9 @@ Added A Message Box At The End Saying Wheter The Removal Operation Completed Or 
 Terminates Windows Defender User Interface Process To Prevent Random Windows Security User Account Control Prompting.
 
 
+Now Removes Windows Defender Startup Registry Entries.
+
+
 To Do:
 
 
