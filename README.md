@@ -24,5 +24,7 @@ To Do:
 
 
 Re-Enable User Account Control After the Removal Process.
-Add An Optional Automatic Uninstalling Process.
+
+
+
 Probably More Fixes That Are Not In My Head Right Now.
