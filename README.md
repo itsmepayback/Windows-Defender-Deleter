@@ -20,6 +20,9 @@ Terminates Windows Defender User Interface Process To Prevent Random Windows Sec
 Now Removes Windows Defender Startup Registry Entries.
 
 
+Adds Itself As A Controlled Folder Access Exclusion.
+
+
 To Do:
 
 
