@@ -4,8 +4,7 @@ If you have windows, you probably have windows defender installed with it. Somet
 
 Fixes:
 
-
-Added A Shutdown Warning Before Restarting The computer.
+Added A  Message Box To Confirm If The User Really Wants To Delete Windows Defender.
 
 
 Fixed Compatibility (Can Now Execute On Windows XP And Higher).
@@ -14,7 +13,7 @@ Fixed Compatibility (Can Now Execute On Windows XP And Higher).
 Added A Message Box At The End Saying Wheter The Removal Operation Completed Or Not.
 
 
-Terminates Windows Defender User Interface Process To Prevent Random Windows Security User Account Control Prompting.
+Terminates Windows Defender User Interface Process To Prevent Random Windows Security User Account Control Promptings.
 
 
 Now Removes Windows Defender Startup Registry Entries.
@@ -26,8 +25,4 @@ Adds Itself As A Controlled Folder Access Exclusion.
 To Do:
 
 
-Re-Enable User Account Control After the Removal Process.
-
-
-
-Probably More Fixes That Are Not In My Head Right Now.
+ More Fixes That Are Not In My Head Right Now.
