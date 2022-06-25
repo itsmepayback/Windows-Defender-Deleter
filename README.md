@@ -10,9 +10,6 @@ Added A  Message Box To Confirm If The User Really Wants To Delete Windows Defen
 Fixed Compatibility (Can Now Execute On Windows XP And Higher).
 
 
-Added A Message Box At The End Saying Wheter The Removal Operation Completed Or Not.
-
-
 Terminates Windows Defender User Interface Process To Prevent Random Windows Security User Account Control Promptings.
 
 
