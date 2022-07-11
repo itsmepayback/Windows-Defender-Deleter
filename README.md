@@ -25,5 +25,6 @@ Now Deletes Windows Defender Smart Screen.
 
 To Do:
 
+Remove Windows Security App.
 
  More Fixes That Are Not In My Head Right Now.
