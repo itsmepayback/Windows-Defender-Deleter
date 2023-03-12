@@ -19,8 +19,10 @@ Now Removes Windows Defender Startup Registry Entries.
 Adds Itself As A Controlled Folder Access Exclusion.
 
 
-
 Now Deletes Windows Defender Smart Screen.
+
+
+Now Completely Removes The Windows Defender Registry Keys.
 
 
 To Do:
