@@ -25,8 +25,10 @@ Now Deletes Windows Defender Smart Screen.
 Now Completely Removes The Windows Defender Registry Keys.
 
 
+Now Removes The Windows Security App.
+
+
 To Do:
 
-Remove Windows Security App.
 
  More Fixes That Are Not In My Head Right Now.
